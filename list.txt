@@ -2,3 +2,5 @@ list of twitter members
 Name of user=$users
 Password=admin123@
 salary=$salary
+
+#debug=$debugging app
