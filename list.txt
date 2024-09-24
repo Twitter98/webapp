@@ -5,3 +5,4 @@ salary=$salary
 Welcome to new script
 Author:James
 #debug=$debugging app
+Author : ONU
