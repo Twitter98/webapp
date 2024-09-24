@@ -2,5 +2,7 @@ list of twitter members
 Name of user=$users
 Password=admin123@
 salary=$salary
-
+Welcome to new script
+Author:James
 #debug=$debugging app
+Author : ONU
